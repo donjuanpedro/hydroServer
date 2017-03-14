@@ -1,7 +1,7 @@
 {
   "name": "advanced-first-web-server",
   "version": "1.0.0",
-  "description": "Starter repository for the ACA advanced contact list api project",
+  "description": "Serving hydromet levels for API.AI get/post requests.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AustinCodingAcademy/advanced-first-web-server.git"
+    "url": "git+https://github.com/donjuanpedro/hydroServer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AustinCodingAcademy/advanced-first-web-server/issues"
+    "url": "https://github.com/donjuanpedro/hydroServer/issues"
   },
-  "homepage": "https://github.com/AustinCodingAcademy/advanced-first-web-server#readme",
+  "homepage": "https://github.com/donjuanpedro/hydroServer#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.18.0",
